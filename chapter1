@@ -42,9 +42,14 @@ Date: 11/Jul/22
 
 	+ T-Shaped designer: specialize in one kind of UX design and has a breadth of knowledge in other areas.
 
-18. 
+18. Define the user, end user, and user experience
 	+ End user: the specific audience a UX designer	create something for.
 	+ User Experience: how a person, the user, feels about interacting with, or experiencing, a product.
+
+	++ End-user that who we need to focus on ++.
+	Ex: focus on kid and we create toys, (kids) equal end-user. (adult) user that they don't impress by toys.
+
+19: Prioritize the user:
 	+ To keep focus on user we need below framework:
 		- Understand: how to user experience use a product.
 		- Specify: the end user need
@@ -52,3 +57,24 @@ Date: 11/Jul/22
 		- Evaluate: your design again your end-user need.
 
 	+ Interaction: doing something again, by building on previous versions and making tweaks.
+
+------------------------------------------------------
+12/Jul/22:
+
+20: Key frameworks in UX design:
+	+ Framework: creates the basic structure that focuses and supports the problem you're trying to solve.
+
+	+ Five elements of UX design: Steps a designer takes to turn an idea into a working product
+		- Strategy: define user need and business subjected
+		- Scope: determine what we building like featuers
+		- Structure: figure out how to organize design and user interact with
+		- Skeleton: as a layout of bone, how design work
+		- Surface: how user see the product
+
+	+ Design thinking: a way to create solutions that address a real user problem and are functional and affordable:
+		- Empathize: Discovering what end really need and learn how to feel like them, might conduct service, interview, observation session to clear picture that who end-user are.
+		- Define: the problem by create clear problem statement
+		- Ideate: brainstorm the solution or aim come up with the idea by focusing on quantity the ideas not quality.
+		- Prototype: Scale down version of the product
+		- Testing: test prototype with the end-user
+ 
