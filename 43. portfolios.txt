@@ -1,0 +1,28 @@
+------------------------------------------------------
+Date: 26/Jul/22
+
+43. Introduction to best practices for UX design portfolios
+
+	+ Tips for a good portfolio
+		1. Establish your Personal brand: the way in which your personality, unique skills, and values as a designer interact with your public personal. 
+		2. Tell a story: you need to your story about your design process.
+		3. Be consise: 
+		4. Keep your navigation simple and intuitive: 
+		5. Go beyond the template: 
+		6. Include a diversity of projects: should have 3-4 projects of your portfolio that demonstrate the range of your skill.
+		7. Case study: leads the user through your design process from the beginning to the end. Not just mockup. 
+			- Project's name and duration
+			- Your role
+			- Project goal
+			- Research 
+			- Intended audience
+			- Sketches or wireframes
+			- User testing results
+			- Final design
+			- Conclusion about what you learned
+
+			+ Be careful not to share:
+				_ Non-disclosure agreement if you have: a contract an employee might sign when working with a business, in which they agree not to share sensitive information
+
+		8. Make your website responsive
+		9. Test your website 
