@@ -1,0 +1,38 @@
+Date 29/Jul/22
+
+01. Introduction
+
+	+ Empathize with users
+	+ Build an empathy map
+	+ Understand user pain points
+	+ Explore personas
+	+ Write user stories
+	+ Identify happy paths and edge cases
+
+03. Introduction to UX research
+
+	+ User Research:
+		- Focuses on understanding user behaviors, needs, and motivations through observation	 and feedback.
+
+		- Goal user research to prioritize user
+
+	+ Product development life cycle: the processes used to take a product from an idea to reality.
+
+	+ Foundational research:
+	- Answers the questions:
+		- What should we build?
+		- What are the user problems?
+		- How can we solve them?
+
+	+ User research:
+	- Answers the questions:
+		- How should we build it?
+
+	+ Post-launch research:
+	- Answers the questions:
+		- Did we succeed?
+
+	+ UX researcher qualities
+		- Empathy: able to understand someone else's feelings or thoughts in a situation
+		- Pragmatism: Focused on reaching goals
+		- Collaboration: Can work with a range of people , personalities
