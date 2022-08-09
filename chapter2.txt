@@ -36,3 +36,20 @@ Date 29/Jul/22
 		- Empathy: able to understand someone else's feelings or thoughts in a situation
 		- Pragmatism: Focused on reaching goals
 		- Collaboration: Can work with a range of people , personalities
+
+----------------------------------------------------------
+Date 09/Aug/22
+
+04. Choose the right research method:
+
+	+ Methods: how to get research done
+	
+	+ Two Way to categize method:
+		- Primary: Research you conduct yourself
+		- Secondary: Research that uses information someone else has put together.
+		
+	+ Quantitative research: focuses on data that can be gathered by counting or measuring.
+	+ Qualitative research: focuses on observation about why and how things happen.
+	+ Different between: 
+		- Quantitative Research gives you the "what".
+		- Qualitative research gives you the "why".
