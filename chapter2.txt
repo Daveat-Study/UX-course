@@ -1,3 +1,39 @@
+Date 10/Aug/22
+
+07. Identify types of bias in UX research
+
+	+ Kinds of biases:
+		- Confirmation bias: occures when you start looking for evidence to prove a hypothesis you have.
+		
+		- False consensus bias: overestimate
+		- Primacy bias: remember the first participant most strongly.
+		- Recency bias
+		- Implicit bias: the collection of attitudes and stereotypes we associate to people without our concious knowledge.
+		+ Sunk cost fallacy: the deeper we get into a project we've invested in, the harder it is to change course.
+			+ Overcoming sunk cost fallacy:
+				- Break down your project into small phases
+				- Outline points where you can decide whether to continue or stop.
+	+ Bias: Favoring or having prejudice against something based on limited information
+----------------------------------------------------------
+
+Date 09/Aug/22
+
+04. Choose the right research method:
+
+	+ Methods: how to get research done
+	
+	+ Two Way to categize method:
+		- Primary: Research you conduct yourself
+		- Secondary: Research that uses information someone else has put together.
+		
+	+ Quantitative research: focuses on data that can be gathered by counting or measuring.
+	+ Qualitative research: focuses on observation about why and how things happen.
+	+ Different between: 
+		- Quantitative Research gives you the "what".
+		- Qualitative research gives you the "why".
+
+----------------------------------------------------------
+
 Date 29/Jul/22
 
 01. Introduction
@@ -36,20 +72,3 @@ Date 29/Jul/22
 		- Empathy: able to understand someone else's feelings or thoughts in a situation
 		- Pragmatism: Focused on reaching goals
 		- Collaboration: Can work with a range of people , personalities
-
-----------------------------------------------------------
-Date 09/Aug/22
-
-04. Choose the right research method:
-
-	+ Methods: how to get research done
-	
-	+ Two Way to categize method:
-		- Primary: Research you conduct yourself
-		- Secondary: Research that uses information someone else has put together.
-		
-	+ Quantitative research: focuses on data that can be gathered by counting or measuring.
-	+ Qualitative research: focuses on observation about why and how things happen.
-	+ Different between: 
-		- Quantitative Research gives you the "what".
-		- Qualitative research gives you the "why".
