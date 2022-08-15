@@ -1,3 +1,39 @@
+Date 15/Aug/22
+
+15. Consider edge cases:
+
+	+ Edge case: what happens when things go wrong that are beyond the user's control.
+
+	+ Spotting & resplving edge cases
+		- Create perosnas and user stories
+		- Thoroughly review the project before launch
+		- Use wireframes
+
+13. Understand personas:
+
+	+ Personas: fictional users whose goal and characteristrics represent the needs of a large group of users.
+
+12. Identify user pain points
+
+	+ Pain points: any UX issues that frustrate the user and block the user from getting what they need.
+	
+	+ Types of Pain point:
+		- Financial:
+		- Product:
+		- Process:
+		- Support:
+
+11. Build an empathy map
+
+	+ Empathy map: an easily understood chart that explains everything designers have learned about a type of user.
+	+ Consist 4 sqaure: 
+		- Says: include what the user says during the interviews.
+		- Thinks: 
+		- Does
+		- Feels
+	
+----------------------------------------------------------
+
 Date 13/Aug/22
 
 10. Empathize with users
