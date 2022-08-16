@@ -1,3 +1,20 @@
+Date 16/Aug/22
+
+16. Create a user journey map:
+
+	+ User journey: the series of experience a user has as they interact with your product.
+
+	+ Benefits of user journey
+		- help UX designer create obstacle-free path for user
+		- Reduces impact of designer bias
+		- Hightlights new pain points
+		- Identify improvement opportunities.
+	
+	+ To map journey: 
+		- Step 1: add each action in the journey until the user reaches their goal.
+		- Step 2: add descriptions for each action what tasks does the user have to do?
+	
+----------------------------------------------------------
 Date 15/Aug/22
 
 15. Consider edge cases:
