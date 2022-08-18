@@ -1,3 +1,24 @@
+Date 18/Aug/22
+
+20. Create problem statement:
+
+	+ Problem statement: a clear description of the user's needs that should be addressed.
+	
+	+ Help:
+	
+		- Establish goals
+		- Understand constraint
+		- Define deliverables
+
+18-19 - Understand the curb cut effect
+
+	+ Curb cut: the slope of the sidewalk that creates a ramp with the adjoining street.
+	
+	+ Cub-cut effect: a phenomenon that describes how products and plicies designed for people with disabilities often end up helping everyone.
+	
+	* Summary: learn about curb-cut that help design something for peoples who disabilities.
+	
+----------------------------------------------------------
 Date 16/Aug/22
 
 16. Create a user journey map:
