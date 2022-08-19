@@ -1,3 +1,31 @@
+Date 19/Aug/22
+22. Understand human factors:
+
+	+ The human factor: describes the range of variables humans bring to their product interactions
+
+	+ Common human factors that inform design:
+		- Impatience
+		- Limted memory
+		- Needing analogies
+		- Limted concentration
+		- Changes in need
+		- Needing motivation
+		- Prejudices
+		- Fears
+		- Making errors
+		- Misjudgment
+
+	+ TL, DR (To Long Don't Read): allow use to read Hightlights email without access contents. 
+
+	+ Mental models: internal maps that allow humans to predict how something will work.
+
+	+ feedback loops: the outcome a user gets at the end of a process.
+
+21. Define Hypothesis statement:
+	
+	+ Hypothesis statement: Our best educated guess on what we think the solution to a design problem might be.
+
+----------------------------------------------------------
 Date 18/Aug/22
 
 20. Create problem statement:
