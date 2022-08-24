@@ -1,10 +1,23 @@
 Date 24/Aug/22
-
+  
 25. Understand the ideation:
 
 	+ Ideation: the process of generating a broad set of ideas on a given topic, whith no attempt to judge or evaluate them.
 
 	+ The Ideation phase: is where we transition from learning about user and the problem to come up with solution.
+
+	+ Ideation in the real world
+		- Brainstorm out loud
+		- Document all ideas: sticky note or white board
+		- Focus on quantity: to share as many as possible
+		- Do not allow evaluation
+		- Question the obvious
+		- Evaluate the ideas
+
+	+ There are two common ways to evaluate ur idea: 
+		- Feasible: tecinically possible to build.
+		- Desirable: best at solving the user problem
+		- Viable: Financially beneficial for the business.
 
 24. Wrap-up Defining user problems.
 
