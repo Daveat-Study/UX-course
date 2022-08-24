@@ -1,3 +1,37 @@
+Date 24/Aug/22
+
+25. Understand the ideation:
+
+	+ Ideation: the process of generating a broad set of ideas on a given topic, whith no attempt to judge or evaluate them.
+
+	+ The Ideation phase: is where we transition from learning about user and the problem to come up with solution.
+
+24. Wrap-up Defining user problems.
+
+	+ Discuss Empathize phase in detail.
+	+ Enter to Define phase.
+		+ A long the way we learn:
+			- build an empathy map
+			- Understand user pain point
+			- Explore persona
+			- Write user story.
+			- Identify happy path.
+			- Discovery user journey map
+			- Cooporate accessibility and inclusion in design, write problem statement. 
+
+23. Explore psychology principles that influence design:
+
+	+ Von Restorff effect (Isolation effect)
+		- When multiple, similar object are present, the one that differs from the rest is most likely to be remembered.
+
+	+ Serial position effect: 
+		- When people are given a list of items, they are more likely to remember the first few and the last few, while the imtes in the middle tend to blur.
+
+	+ Hick's Law
+		- The more options a user has the longer it takes for them to make a decision.
+
+----------------------------------------------------------
+
 Date 19/Aug/22
 22. Understand human factors:
 
