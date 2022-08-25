@@ -1,3 +1,21 @@
+Date 25/Aug/22
+
+27. Recognize business needs during design ideation:
+
+	+ As continue with this program u will see how to: 
+		- Design can help facilitate a conversion between a business and its users.
+
+25. Explore lots of ideas:
+
+	+ Ideation: focus on comin up a lot of ideas.
+
+	+ Why should we come up with a lot of ideas:
+		- List of ideas is narrowed based on constraints
+		- Need to focus on equity.
+
+	+ Recap: we need use know user need and business need when designing.
+
+----------------------------------------------------------
 Date 24/Aug/22
   
 25. Understand the ideation:
