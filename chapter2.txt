@@ -1,3 +1,31 @@
+Date 30/Aug/22
+
+28. Scope the competition:
+
+	+ Competitive audit:
+		- An overview of your Competitor's strenghts and weaknesses.
+		- Just one tool to explore design. so we can learn what work and not work
+		
+	+ what you can learn from Competitor audit:
+		- identifying your key Competitors
+		- Reviewing the products that your competitors offer
+		- understanding how your competitors position themselves in the market.
+		- Examining what your competition does well and what they could do better.
+		- Considering how your competitors talk about themselves.
+	
+	+ Direct competitors:
+		- Have offerings that are similar to your product and focus on the same audience.
+
+	+ Benefits to Competitive audit:
+		1). inform your design process
+			- how your competitors approach their design product.
+			- knowing what others have done can help you make design decision for your own product.
+		2). Solve usability problems
+		3). Reveal gaps is the market
+		4). Provide reliable evidence
+		5). Save time, money, and energy.
+
+----------------------------------------------------------
 Date 25/Aug/22
 
 27. Recognize business needs during design ideation:
