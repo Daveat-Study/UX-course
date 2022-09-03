@@ -1,3 +1,28 @@
+Date 3/Sep/22
+
+30. Steps to conduct a competivie audit.
+
+	+ Competitive audit steps.
+		1. Outline the goals.
+		2. Create a spreadsheet with a list of your competitors.
+
+			+ Direct competiors: organizations that have offerings that are similar to your product and focus on the same audience.
+			+ Indirect copetitors: organizations that have a similar set of offerings but focus on a different audience, or have a different set of offerings and focus on the same audience.
+		3. Call out the specific features you want to compare.
+		4. Research each company
+		5. Analyzing findings.
+		6. Summarize findings in a report.
+
+29. Limited a competitive audit.
+
+	+ Limitations of competitive audits:
+		- Stifle creatitivity.
+		- Depend on how well you interpret the findings.
+		- Not all designs work in all use cases.
+		- Need to be done regularly.
+
+----------------------------------------------------------
+
 Date 30/Aug/22
 
 28. Scope the competition:
