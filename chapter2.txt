@@ -1,8 +1,36 @@
+Date 16/Sep/22
+
+	36. End Chapter 2:
+
+	+ Summary you learned:
+
+		- Learned the basics of UX research
+		- Empathize with users
+		- Explored perosnas
+		- Wrote a user story
+		- Identified happy paths and edge cases
+		- Discovered the benefits of user journey maps
+		- Created problem statement and hypothesis statement
+		- Ideate
+
+	35 - Consider user journeys during ideation:
+
+		+ User journey: the series of experiences a user has while interacting with a product.
+
+	Exercise:
+
+		+ Create Crazy eight for problem statement with below topic:
+
+			1. Charles is a retired grandfather who needs a way to keep his essential belonging with him because he often loses track of this wallet.
+
+			2. Amal is an athlete who needs a way to sign up for workout classes, because the class he wants to participate in fills up fast.
+
+----------------------------------------------------------
 Date 53/Sep/22
 
 34. Use Crazy eight to ideate.
 
-	+ 
+	+ The point of sketching is to move as quickly as possible to record losts of ideas.
 
 33. Use How Might We to ideate.
 
