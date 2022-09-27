@@ -1,3 +1,19 @@
+Date 27/Sep/22
+
+8. Introduction to wireframes:
+
+    + Fidelity:
+        - How closely
+
+7. Understand the two types of storyboards
+
+    + Close-up storyboard:
+        - Focuses on the product.
+        - Less about emotion and not focus on user.
+        - Focus on pratic ... design itself.
+
+----------------------------------------------
+
 Date 26/Sep/22
 
 6. Introduction to storyboarding user flows
